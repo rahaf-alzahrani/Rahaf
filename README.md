@@ -23,8 +23,6 @@
 <br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahaf-alzahrani" alt="rahaf-alzahrani" /></a> </p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rahaf-alzahrani&show_icons=true&locale=en" alt="rahaf-alzahrani" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rahaf-alzahrani&" alt="rahaf-alzahrani" /></p>
+<br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rahaf-alzahrani&show_icons=true&locale=en" alt="rahaf-alzahrani" /></p> <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rahaf-alzahrani&" alt="rahaf-alzahrani" /></p>
 
